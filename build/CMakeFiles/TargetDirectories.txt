@@ -1,3 +1,0 @@
-/media/sh3xe/hdd_win/documents/dev/projets/tipe/build/CMakeFiles/simulation_foule.dir
-/media/sh3xe/hdd_win/documents/dev/projets/tipe/build/CMakeFiles/edit_cache.dir
-/media/sh3xe/hdd_win/documents/dev/projets/tipe/build/CMakeFiles/rebuild_cache.dir

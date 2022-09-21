@@ -1,5 +1,7 @@
 #pragma once
 
+#include "simulation.hpp"
+
 struct Config
 {
 	int width, height;
@@ -13,6 +15,11 @@ public:
 	void run();
 
 private:
+	void handle_inputs();
+	void update();
+	void draw();
+
 	bool m_running {false};
+	Simulation m_simulation;
 
 };
