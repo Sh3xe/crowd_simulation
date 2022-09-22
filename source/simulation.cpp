@@ -1,6 +1,6 @@
 #include "simulation.hpp"
 
-void Simulation::render()
+Simulation::Simulation()
 {
 
 }

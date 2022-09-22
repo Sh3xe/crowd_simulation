@@ -1,0 +1,14 @@
+# délimitation du terrain
+nb_arrêtes x0 y0 x1 y1 ... xn yn
+# obstacles
+nb_obstacles
+nb_arrêtes_obstacle0 x00 y00 ... x0n y0n
+nb_arrêtes_obstacle0 x10 y10 ... x1n y1n
+...
+nb_arrêtes_obstacle0 xp0 yp0 ... xpn ypn
+# arrêtes
+nb_arrêtes
+x0 y0 suivant0 ... xn yn suivantn # (suivantx) = -1 si dernière arrête
+# zones de départs
+nb_zones
+x0 y0 w0 h0 coeff1 arrête0 ... xn yn wn hn coeffn arrêten
